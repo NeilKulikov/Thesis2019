@@ -1,0 +1,93 @@
+% !TEX encoding = UTF-8 Unicode
+\documentclass[a4paper, 14pt, russian]{extreport}
+\usepackage[a4paper]{geometry}
+\usepackage{lipsum}
+\usepackage{extsizes}
+\usepackage{cmap}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{physics}
+\usepackage{hyperref}
+\usepackage{indentfirst}
+\usepackage{fontspec}
+\usepackage{fancyhdr}
+\usepackage{enumerate}
+\usepackage{amssymb, amsmath}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\usepackage{apacite}
+
+%Множественные документы
+\usepackage{subfiles}
+
+%По ГОСТ 7.32-2001
+
+%Отступы
+\geometry{left = 2.0cm}
+\geometry{right = 1.0cm}
+\geometry{top = 2.0cm}
+\geometry{bottom = 1cm}
+
+%Полуторный интервал
+\linespread{1.15}
+
+%Отступ 1.5cm
+\setlength\parindent{1.5cm}
+
+%Шрифт Times New Roman
+\setmainfont{Times New Roman}
+
+%Нумерация
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\fancyheadoffset{0mm}
+\fancyfootoffset{0mm}
+\setlength{\headheight}{17pt}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{plain}{ 
+    \fancyhf{}
+    \rhead{\thepage}}
+\setcounter{page}{1}
+
+%Установка параметров ссылок
+\hypersetup{linkcolor=red}
+
+%Установка метаданных
+\title{Отчет о дипломной работе}
+\author{Куликов Никита}
+\date{}
+
+\newcommand{\ra}{\textcolor{red}{!!!}}
+
+\renewcommand\contentsname{Содержание}
+\addto\captionsrussian{\def\refname{Список используемой литературы}}
+
+
+\begin{document}
+    %Титульный лист
+    \subfile{sections/titlePage.tex}
+
+    %Содержание
+    \subfile{sections/contents.tex}
+    %\tableofcontents
+
+    \cite[NLOpt]{Nlopt cite}
+
+    %Введение
+    \subfile{sections/intro.tex}
+    %Содержимое
+
+    \subfile{sections/measTechnique.tex}
+
+    \subfile{sections/myComputations.tex}
+
+    \subfile{sections/samplesDesign.tex}
+
+    \bibliography{bibl} 
+
+    \bibliographystyle{ieeetr}
+\end{document}
