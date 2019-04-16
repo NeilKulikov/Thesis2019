@@ -17,7 +17,7 @@
 \usepackage{tikz}
 \usepackage{pgfplots}
 
-\usepackage{apacite}
+\usepackage{cite}
 
 %Множественные документы
 \usepackage{subfiles}
@@ -75,8 +75,6 @@
     \subfile{sections/contents.tex}
     %\tableofcontents
 
-    \cite[NLOpt]{Nlopt cite}
-
     %Введение
     \subfile{sections/intro.tex}
     %Содержимое
@@ -87,7 +85,7 @@
 
     \subfile{sections/samplesDesign.tex}
 
-    \bibliography{bibl} 
+    \bibliography{bibliography.bib} 
 
-    \bibliographystyle{ieeetr}
+    \bibliographystyle{gost2008}
 \end{document}

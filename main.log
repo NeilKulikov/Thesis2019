@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.9.3)  14 APR 2019 16:29
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.9.3)  16 APR 2019 12:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2110,15 +2110,10 @@ File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
 ks.code.tex
 File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
-)))
-(/usr/local/texlive/2018/texmf-dist/tex/latex/apacite/apacite.sty
-Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count306
-\bibleftmargin=\skip62
-\bibindent=\skip63
-\bibparsep=\skip64
-\bibitemsep=\skip65
-\biblabelsep=\skip66
+))) (/usr/local/texlive/2018/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2012/05/23 Federico Garcia
@@ -2129,7 +2124,7 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks41
 \verbatim@in@stream=\read3
 ))
-\g__fontspec_family_TimesNewRoman_int=\count307
+\g__fontspec_family_TimesNewRoman_int=\count306
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2217,7 +2212,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count308
+\c@section@level=\count307
 )
 LaTeX Info: Redefining \ref on input line 70.
 LaTeX Info: Redefining \pageref on input line 70.
@@ -2298,11 +2293,6 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into
 your preamble.
  on input line 70.
 
-\c@maskedRefs=\count309
-
-Package apacite Warning: No suitable language definition file (russian.apc) fou
-nd.
-
 (./sections/titlePage.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 15.
@@ -2328,123 +2318,111 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 21.
  [2])
-
-LaTeX Warning: Citation `Nlopt cite' undefined on input line 78.
-
 (./sections/intro.tex
-Overfull \hbox (11.27466pt too wide) in paragraph at lines 23--28
+Overfull \hbox (11.27466pt too wide) in paragraph at lines 25--30
 []\TU/TimesNewRoman(0)/m/n/14.4 Оже-рекомбинация представляет собой безызлучате
 льный трёхчастичный про-
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 41.
  [3]
 Missing character: There is no λ in font cmmi12!
 Missing character: There is no λ in font cmmi12!
 
-Overfull \hbox (6.08397pt too wide) in paragraph at lines 40--53
+Overfull \hbox (6.08397pt too wide) in paragraph at lines 42--55
 \TU/TimesNewRoman(0)/m/n/14.4 тернативных» подложках GaAs. Высокое качество эпи
 таксиальных структур HgCdTe,
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 55.
 [4]) (./sections/measTechnique.tex
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 5.
 
 
-LaTeX Warning: Command \~ invalid in math mode on input line 31.
+LaTeX Warning: Command \~ invalid in math mode on input line 33.
 
 Missing character: There is no ̃ in font cmmi12!
 
-Overfull \hbox (4.49379pt too wide) in paragraph at lines 33--36
+Overfull \hbox (4.49379pt too wide) in paragraph at lines 35--38
 \TU/TimesNewRoman(0)/m/n/14.4 ренционных и []!!![]... фильтров, позволяющий эфф
 ективно ослаблять излучение в неин-
  []
 
 
-Overfull \hbox (14.10475pt too wide) in paragraph at lines 42--45
+Overfull \hbox (14.10475pt too wide) in paragraph at lines 44--47
 []\TU/TimesNewRoman(0)/m/n/14.4 В случае импульсного режима накачки использовал
 ся синхродетектор Standford
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 47.
 [5]
-Overfull \hbox (2.0661pt too wide) in paragraph at lines 72--210
+Overfull \hbox (0.19344pt too wide) in paragraph at lines 74--77
 []\TU/TimesNewRoman(0)/m/n/14.4 Кроме вышеперечисленного оборудования использов
-ался также токовый уси-
+ался токовый усилитель
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 210.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 210.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 210.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 210.
-[6]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 211.
+(babel)             in language  on input line 216.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 211.
+(babel)             in language  on input line 216.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 211.
+(babel)             in language  on input line 216.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 211.
-[7]) (./sections/myComputations.tex
+(babel)             in language  on input line 216.
+[6]) (./sections/myComputations.tex
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 5.
 
-Overfull \hbox (7.03601pt too wide) detected at line 20
+Overfull \hbox (7.03601pt too wide) detected at line 22
  []$[]  [][]\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 f[];  f[]\OT1/cmr/m/n/14.4 ](
 []) = [] \OML/cmm/m/it/14.4 d[][] [] d[][] [] d[][] []$ 
  []
 
 
-Overfull \hbox (2.0878pt too wide) detected at line 20
+Overfull \hbox (2.0878pt too wide) detected at line 22
  []$[] [] \OT1/cmr/m/n/14.4 ;$ []  
  []
 
 
-Overfull \hbox (35.14783pt too wide) detected at line 28
+Overfull \hbox (35.14783pt too wide) detected at line 30
 []\OML/cmm/m/it/14.4 !\OT1/cmr/m/n/14.4 ([]\OML/cmm/m/it/14.4 ;  [];  [] \OMS/c
 msy/m/n/14.4 ! []\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 / \OML/cmm/m/it/14.4 ^^
 N[]\OT1/cmr/m/n/14.4 ([] + [] + [] \OMS/cmsy/m/n/14.4 ^^@ []\OT1/cmr/m/n/14.4 )
@@ -2452,46 +2430,46 @@ N[]\OT1/cmr/m/n/14.4 ([] + [] + [] \OMS/cmsy/m/n/14.4 ^^@ []\OT1/cmr/m/n/14.4 )
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 64.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 62.
-[8]
-Overfull \hbox (7.83644pt too wide) in paragraph at lines 64--65
+(babel)             in language  on input line 64.
+[7]
+Overfull \hbox (7.83644pt too wide) in paragraph at lines 66--67
 []\TU/TimesNewRoman(0)/m/n/14.4 Подставим закон сохранения импулься сразу и вос
 пользуемся методом неопре-
  []
 
 
-Overfull \hbox (16.01703pt too wide) in paragraph at lines 81--84
+Overfull \hbox (16.01703pt too wide) in paragraph at lines 83--86
 []\TU/TimesNewRoman(0)/m/n/14.4 Теперь рассмотрим ситуацию изотропного дисперси
 онного соотношения $\OML/cmm/m/it/14.4 "\OT1/cmr/m/n/14.4 ([])$\TU/TimesNewRoma
 n(0)/m/n/14.4 ,
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 104.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 104.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 104.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 101.
-[9]
-Overfull \hbox (17.07002pt too wide) in paragraph at lines 116--117
+(babel)             in language  on input line 104.
+[8]
+Overfull \hbox (17.07002pt too wide) in paragraph at lines 120--121
  [] 
  []
 
 
-Overfull \hbox (17.07002pt too wide) in paragraph at lines 131--132
+Overfull \hbox (17.07002pt too wide) in paragraph at lines 135--136
  [] 
  []
 
 
-Overfull \hbox (17.07002pt too wide) in paragraph at lines 146--147
+Overfull \hbox (17.07002pt too wide) in paragraph at lines 150--151
  [] 
  []
 
@@ -2499,36 +2477,45 @@ Overfull \hbox (17.07002pt too wide) in paragraph at lines 146--147
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 161.
-[10]) (./sections/samplesDesign.tex
+(babel)             in language  on input line 165.
+[9]) (./sections/samplesDesign.tex
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 37.
- [11]
+(babel)             in language  on input line 39.
+ [10]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 50.
- [12]) (./main.bbl
+(babel)             in language  on input line 52.
+ [11]) (./main.bbl
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1.
+ [12]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
@@ -2538,58 +2525,49 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
  [13]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
- [14]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
+Underfull \hbox (badness 3271) in paragraph at lines 33--36
+[]\TU/TimesNewRoman(0)/m/n/14.4 Agrawal G.P. D. N. Long-wavelength semiconducto
+r lasers // Van Nostrand
+ []
 
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+Underfull \hbox (badness 1097) in paragraph at lines 39--42
+[]\TU/TimesNewRoman(0)/m/n/14.4 Conn A.R. Gould N.I.M. P. T. L. A fortran packa
+ge for large-scale nonlinear
+ []
 
 )
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 91.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 91.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 91.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 93.
- [15
+(babel)             in language  on input line 91.
+ [14
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F4DE19E30329C01941E3A9D7F43D7EA8.
+(rerunfilecheck)             Checksum: 2B80EFC6F780D05A2A9C37540471F209.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 42135 strings out of 492970
- 961428 string characters out of 6133939
- 1305245 words of memory out of 5000000
- 45591 multiletter control sequences out of 15000+600000
- 534181 words of font info for 53 fonts, out of 8000000 for 9000
+ 41833 strings out of 492970
+ 957657 string characters out of 6133939
+ 1301386 words of memory out of 5000000
+ 45289 multiletter control sequences out of 15000+600000
+ 534189 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,12n,96p,10401b,765s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,96p,10401b,771s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (15 pages).
+Output written on main.pdf (14 pages).

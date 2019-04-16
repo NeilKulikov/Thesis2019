@@ -1,0 +1,10 @@
+#ignore all files except .tex, .pdf, .bib, makefile, .csf
+*.aux
+*.bbl
+* bcf
+*.blg
+*.gnuplot
+*.log
+*.toc
+*.fdb_latexmk
+*.fls
