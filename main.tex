@@ -64,8 +64,13 @@
 \newcommand{\ra}{\textcolor{red}{!!!}}
 
 \renewcommand\contentsname{Содержание}
-\addto\captionsrussian{\def\refname{Список используемой литературы}}
+\renewcommand\bibname{Фигня}
 
+%Запрет на переносы строк
+\pretolerance10000
+
+\newcommand{\bea}{\begin{equation} \begin{flushleft} \left\{ \begin{aligned}}
+\newcommand{\eea}{\end{aligned} \right. \end{flushleft} \end{equation}}
 
 \begin{document}
     %Титульный лист
@@ -82,6 +87,8 @@
     \subfile{sections/measTechnique.tex}
 
     \subfile{sections/myComputations.tex}
+
+    \subfile{sections/exampleAndComparsion.tex}
 
     \subfile{sections/samplesDesign.tex}
 
