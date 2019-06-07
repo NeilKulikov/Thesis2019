@@ -1,3 +1,9 @@
 \babel@toc {russian}{}
-\contentsline {section}{\numberline {0.1}Содержание}{2}{section.0.1}
-\contentsline {subsection}{\numberline {0.1.1}Рассчет минимальной энергии Оже-процесса}{4}{subsection.0.1.1}
+\contentsline {chapter}{\numberline {1}Введение}{4}{chapter.1}
+\contentsline {chapter}{\numberline {2}Измерения и методики}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Методика исследования фотолюминисценции}{8}{section.2.1}
+\contentsline {section}{\numberline {2.2}Методика исследования фотопроводимости}{10}{section.2.2}
+\contentsline {chapter}{\numberline {3}Рассчет минимальной энергии Оже-процесса}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Общие соотношения}{14}{section.3.1}
+\contentsline {chapter}{\numberline {4}Дизайн гетероструктур}{21}{chapter.4}
+\contentsline {chapter}{\numberline {5}Заключение}{23}{chapter.5}

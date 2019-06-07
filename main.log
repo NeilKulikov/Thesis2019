@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.9.3)  23 APR 2019 13:57
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.9.3)  7 JUN 2019 16:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2110,7 +2110,32 @@ File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
 ks.code.tex
 File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
-))) (/usr/local/texlive/2018/texmf-dist/tex/latex/cite/cite.sty
+))) (/usr/local/texlive/2018/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2017/11/29 v2.01 (include SVG pictures)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\c@svg@param@lastpage=\count306
+\c@svg@param@currpage=\count307
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/transparent.sty
+Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
+
+
+
+Package transparent Warning: Loading aborted, because pdfTeX is not running in 
+PDF mode.
+
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
@@ -2124,7 +2149,7 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks41
 \verbatim@in@stream=\read3
 ))
-\g__fontspec_family_TimesNewRoman_int=\count306
+\g__fontspec_family_TimesNewRoman_int=\count308
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2146,30 +2171,68 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 . Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 40.
- (./main.aux)
+LaTeX Info: Redefining \rmfamily on input line 42.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen278
+\ttl@minus=\dimen279
+\ttl@toksa=\toks42
+\titlewidth=\dimen280
+\titlewidthlast=\dimen281
+\titlewidthfirst=\dimen282
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count309
+\c@Blindtext=\count310
+\c@blind@countparstart=\count311
+\blind@countxx=\count312
+\blindtext@numBlindtext=\count313
+\blind@countyy=\count314
+\c@blindlist=\count315
+\c@blindlistlevel=\count316
+\c@blindlist@level=\count317
+\blind@listitem=\count318
+\c@blind@listcount=\count319
+\c@blind@levelcount=\count320
+\blind@mathformula=\count321
+\blind@Mathformula=\count322
+\c@blind@randomcount=\count323
+\c@blind@randommax=\count324
+\c@blind@pangramcount=\count325
+\c@blind@pangrammax=\count326
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -2204,19 +2267,19 @@ LaTeX Font Info:    ... okay on input line 75.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring OFF on input line 75.
+\AtBeginShipoutBox=\box57
+Package hyperref Info: Link coloring OFF on input line 84.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count307
+\c@section@level=\count327
 )
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 84.
+LaTeX Info: Redefining \pageref on input line 84.
+LaTeX Info: Redefining \nameref on input line 84.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -2229,69 +2292,69 @@ LaTeX Info: Redefining \nameref on input line 75.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 75.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 75.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 75.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 75.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 75.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 75.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 75.
-LaTeX Font Info:    Redeclaring math accent \check on input line 75.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 75.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 75.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 75.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 75.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 75.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 84.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 84.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 84.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 84.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 84.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 84.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 84.
+LaTeX Font Info:    Redeclaring math accent \check on input line 84.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 84.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 84.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 84.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 84.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 75.
+(Font)              `operators' in the math version `normal' on input line 84.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 7
-5.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 8
+4.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 75.
+(Font)              `operators' in the math version `bold' on input line 84.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-75.
+84.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 75.
+input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 75.
+ 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/bx/n on input line
- 75.
+ 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 75.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 75.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 84.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/bx/n on
- input line 75.
+ input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/bx/it on input li
-ne 75.
+ne 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 75.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 84.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 75.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 84.
  ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 75.
+ on input line 84.
 
 (./sections/titlePage.tex
 Package babel Info: Redefining russian shorthand "|
@@ -2304,103 +2367,127 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 15.
  [1
 
-]) (./sections/contents.tex
+]) (./sections/contents.tex (./main.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 21.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 21.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 21.
- [2])
+(babel)             in language  on input line 5.
+ [2
+
+])
 (./sections/intro.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--12
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+ [3]
+Глава 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+|[]\TU/TimesNewRoman(0)/bx/n/35.83 Введение|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--16
 \TU/TimesNewRoman(0)/m/n/14.4 является получение источников
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 4--12
+Underfull \hbox (badness 1127) in paragraph at lines 8--16
 \TU/TimesNewRoman(0)/m/n/14.4 поглащения этого излучения тканями человека, что 
 позволило бы разработать
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 4--12
+Underfull \hbox (badness 3612) in paragraph at lines 8--16
 \TU/TimesNewRoman(0)/m/n/14.4 возможным применением может стать спектроскопия с
 ложных органических
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 13--21
+Underfull \hbox (badness 3343) in paragraph at lines 17--25
 []\TU/TimesNewRoman(0)/m/n/14.4 В настоящее время имеется несколько способов ге
 нерации подобного
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 13--21
+Underfull \hbox (badness 6893) in paragraph at lines 17--25
 \TU/TimesNewRoman(0)/m/n/14.4 приборов являются квантово-каскадные лазеры (QCL)
 . Они демоснтрируют
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--28
+Underfull \hbox (badness 10000) in paragraph at lines 26--32
 \TU/TimesNewRoman(0)/m/n/14.4 узкозонных
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 29--34
+Underfull \hbox (badness 1337) in paragraph at lines 33--38
 \TU/TimesNewRoman(0)/m/n/14.4 Поэтому температура сильнг влияет на темп таких п
 роцессов, а значит и на
  []
 
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 38.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 38.
+[4
 
-Underfull \hbox (badness 2698) in paragraph at lines 35--38
+]
+Underfull \hbox (badness 2698) in paragraph at lines 39--42
 \TU/TimesNewRoman(0)/m/n/14.4 в которых такие процессы принципиально запрещены 
 законами сохраниения
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 39.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 39.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 39.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 39.
-[3]
-LaTeX Font Info:    Try loading font information for U+msa on input line 41.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 41.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 3078) in paragraph at lines 39--47
+Underfull \hbox (badness 3078) in paragraph at lines 43--51
 []\TU/TimesNewRoman(0)/m/n/14.4 Спектральный диапазон 5 - 15 ТГц к настоящему м
 оменту частично
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 39--47
+Underfull \hbox (badness 1527) in paragraph at lines 43--51
 \TU/TimesNewRoman(0)/m/n/14.4 снижает эффективность Оже-рекомбинации в PbSnSe(T
 e) [[]3[]], [[]4[]] - симметрия
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 39--47
+Underfull \hbox (badness 2027) in paragraph at lines 43--51
 \TU/TimesNewRoman(0)/m/n/14.4 труднопреодолимые проблемы в реализации квантовых
  ям (КЯ) для твердых
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 39--47
+Underfull \hbox (badness 1117) in paragraph at lines 43--51
 \TU/TimesNewRoman(0)/m/n/14.4 с квантовыми ямами и единственной возможностью вл
 иять на дисперсионное
  []
@@ -2408,266 +2495,361 @@ Underfull \hbox (badness 1117) in paragraph at lines 39--47
 Missing character: There is no λ in font cmmi12!
 Missing character: There is no λ in font cmmi12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--61
+Underfull \hbox (badness 10000) in paragraph at lines 52--65
 []\TU/TimesNewRoman(0)/m/n/14.4 Существуют альтернативные полупроводниковые сис
 темы,
  []
 
 
-Underfull \hbox (badness 6859) in paragraph at lines 48--61
+Underfull \hbox (badness 6859) in paragraph at lines 52--65
 \TU/TimesNewRoman(0)/m/n/14.4 которые позволяют приблизиться к «графеноподобном
 у» закону дисперсии,
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 48--61
+Underfull \hbox (badness 4927) in paragraph at lines 52--65
 \TU/TimesNewRoman(0)/m/n/14.4 но сохранить конечную ширину запрещенной зоны.  К
 ак было показано в
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 48--61
+Underfull \hbox (badness 2726) in paragraph at lines 52--65
 \TU/TimesNewRoman(0)/m/n/14.4 многочисленных работах, одна из таких систем - ге
 тероструктуры с КЯ на
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 48--61
+Underfull \hbox (badness 1127) in paragraph at lines 52--65
 \TU/TimesNewRoman(0)/m/n/14.4 (МЛЭ) обеспечивает высокое качество эпитаксиальны
 х пленок КРТ не только
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 48--61
+Underfull \hbox (badness 1946) in paragraph at lines 52--65
 \TU/TimesNewRoman(0)/m/n/14.4 на подложках CdZnTe, но и на «альтернативных» под
 ложках GaAs. Высокое
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 48--61
+Underfull \hbox (badness 6792) in paragraph at lines 52--65
 \TU/TimesNewRoman(0)/m/n/14.4 продемонстрировано, что возможно подавление Оже-п
 роцессов в подобных
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 61.
-[4]) (./sections/measTechnique.tex
+(babel)             in language  on input line 65.
+[5]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 65.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 65.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 65.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 65.
+ [6]) (./sections/measTechnique.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+ [7]
+Глава 2.
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--13
-\TU/TimesNewRoman(0)/m/n/14.4 Основным методом исследования
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+|[]\TU/TimesNewRoman(0)/bx/n/35.83 Измерения и методики|
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--17
+[]\TU/TimesNewRoman(0)/m/n/14.4 Основным методом исследования
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 7--13
+Underfull \hbox (badness 1178) in paragraph at lines 11--17
 \TU/TimesNewRoman(0)/m/n/14.4 наногетероструктур, работающих в разумном диапазо
 не температур (77-300K),
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 7--13
+Underfull \hbox (badness 1205) in paragraph at lines 11--17
 \TU/TimesNewRoman(0)/m/n/14.4 оценка зависимости интенсивности вынужденного или
  спонтанного излучения
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 14--19
+Underfull \hbox (badness 1642) in paragraph at lines 18--23
 []\TU/TimesNewRoman(0)/m/n/14.4 Исследуемый образец помещается в вакуумный крио
 стат ARS-Cryotech
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 14--19
+Underfull \hbox (badness 2189) in paragraph at lines 18--23
 \TU/TimesNewRoman(0)/m/n/14.4 с гелиевым охлаждением и возможностью нагрева обр
 азцов до необходимой
  []
 
 
-Underfull \hbox (badness 3930) in paragraph at lines 20--22
+Underfull \hbox (badness 3930) in paragraph at lines 24--26
 []\TU/TimesNewRoman(0)/m/n/14.4 Структуры облучались лазерами с длинами волн []
 !!![]... с мощностями
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 20--22
+Underfull \hbox (badness 3482) in paragraph at lines 24--26
 []\TU/TimesNewRoman(0)/m/n/14.4 !!![]... соответственно. При этом лазеры были и
 мпульсными или искуственно
  []
 
 
-LaTeX Warning: Command \~ invalid in math mode on input line 33.
+LaTeX Warning: Command \~ invalid in math mode on input line 37.
 
 Missing character: There is no ̃ in font cmmi12!
 
-Underfull \hbox (badness 2846) in paragraph at lines 30--34
+Underfull \hbox (badness 2846) in paragraph at lines 34--38
 []\TU/TimesNewRoman(0)/m/n/14.4 В качестве приемника использовался болометр про
 изводства IRLabs с
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
 []\TU/TimesNewRoman(0)/m/n/14.4 Воизбежание паразитной засветки детекторов излу
 чением
  []
 
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 42.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 42.
+[8
 
-Underfull \hbox (badness 3068) in paragraph at lines 39--43
+]
+Overfull \hbox (42.67912pt too wide) in paragraph at lines 43--80
+[]$[]$ 
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 81--85
 \TU/TimesNewRoman(0)/m/n/14.4 использовались усилители напряжения Standford SR5
 60, включающие в себя
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 39--43
+Underfull \hbox (badness 4872) in paragraph at lines 81--85
 \TU/TimesNewRoman(0)/m/n/14.4 нейтрализовать гармоники 50 Hz, которые являются 
 основной компонентой
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 43.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 43.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 43.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 43.
-[5]
-Underfull \hbox (badness 4316) in paragraph at lines 44--47
+
+Underfull \hbox (badness 4316) in paragraph at lines 86--89
 []\TU/TimesNewRoman(0)/m/n/14.4 В случае импульсного режима накачки использовал
 ся синхродетектор
  []
 
 
-Underfull \hbox (badness 7595) in paragraph at lines 44--47
+Underfull \hbox (badness 7595) in paragraph at lines 86--89
 \TU/TimesNewRoman(0)/m/n/14.4 Standford SR850, его использование позволяет суще
 ственно снизить время
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 56--59
+Overfull \hbox (42.67912pt too wide) in paragraph at lines 93--131
+[]$[]$ 
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 133.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 133.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 133.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 133.
+[9]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 133.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 133.
+
+Underfull \hbox (badness 1888) in paragraph at lines 139--142
 []\TU/TimesNewRoman(0)/m/n/14.4 Фурье спектрометр в данном случае работает в ре
 жиме непрерывного
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 60--64
+Underfull \hbox (badness 8113) in paragraph at lines 143--147
 []\TU/TimesNewRoman(0)/m/n/14.4 Также требуется отметить, что в таком режиме из
 мерений в силу
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 60--64
+Underfull \hbox (badness 1127) in paragraph at lines 143--147
 \TU/TimesNewRoman(0)/m/n/14.4 возможностью плавной регулировки температуры, вви
 ду этого доступно всего
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
 []\TU/TimesNewRoman(0)/m/n/14.4 Ввиду технической сложности
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 65--68
+Underfull \hbox (badness 1997) in paragraph at lines 148--151
 \TU/TimesNewRoman(0)/m/n/14.4 простая пайка с индиевым припоем (выбор обусловле
 н схожим с образцами
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 69--73
+Underfull \hbox (badness 1831) in paragraph at lines 152--156
 []\TU/TimesNewRoman(0)/m/n/14.4 В качестве эталонного источника излучения в дан
 ном типе измерений
  []
 
 
-Underfull \hbox (badness 6542) in paragraph at lines 69--73
+Underfull \hbox (badness 6542) in paragraph at lines 152--156
 \TU/TimesNewRoman(0)/m/n/14.4 характеристика позволяет проводить точную нормиро
 вку сигнала с учетом
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 156.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 156.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 156.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 156.
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
 []\TU/TimesNewRoman(0)/m/n/14.4 Кроме вышеперечисленного
  []
 
+
+Overfull \hbox (42.67912pt too wide) in paragraph at lines 161--228
+[]$[]$ 
+ []
+
+
+LaTeX Warning: Citation `Utochkin' on page 11 undefined on input line 234.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--243
+[]\TU/TimesNewRoman(0)/m/n/14.4 Первым примером
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 234--243
+\TU/TimesNewRoman(0)/m/n/14.4 ширине запрещённой зоны около 90 $\OML/cmm/m/it/1
+4.4 meV$ \TU/TimesNewRoman(0)/m/n/14.4 ($\OML/cmm/m/it/14.4 ^^U \OMS/cmsy/m/n/1
+4.4 ^^X \OT1/cmr/m/n/14.4 14 \OML/cmm/m/it/14.4 ^^Vm$\TU/TimesNewRoman(0)/m/n/1
+4.4 ) при $\OML/cmm/m/it/14.4 T \OT1/cmr/m/n/14.4 = 18 \OML/cmm/m/it/14.4 K$\TU
+/TimesNewRoman(0)/m/n/14.4 .
+ []
+
+
+LaTeX Warning: Citation `Fadeev' on page 11 undefined on input line 244.
+
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 248.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 248.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 248.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 77.
-[6]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Citation `Utochkin' on page 7 undefined on input line 221.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--230
-[]\TU/TimesNewRoman(0)/m/n/14.4 Первым примером будет образец из ещё не вышедше
- статьи
+(babel)             in language  on input line 248.
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 249--251
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ширина запрещённой зоны была подтверждена метод
+ом
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 221--230
-\TU/TimesNewRoman(0)/m/n/14.4 ($\OML/cmm/m/it/14.4 ^^U \OMS/cmsy/m/n/14.4 ^^X \
-OT1/cmr/m/n/14.4 14 \OML/cmm/m/it/14.4 ^^Vm$\TU/TimesNewRoman(0)/m/n/14.4 ) при
- $\OML/cmm/m/it/14.4 T \OT1/cmr/m/n/14.4 = 18 \OML/cmm/m/it/14.4 K$\TU/TimesNew
-Roman(0)/m/n/14.4 . Структура не была намеренно легирована;
- []
-
-
-Underfull \hbox (badness 1354) in paragraph at lines 221--230
-\TU/TimesNewRoman(0)/m/n/14.4 остаточная концентрация носителей p-типа, получен
-ная на основе холловских
- []
-
-
-LaTeX Warning: Citation `Fadeev' on page 7 undefined on input line 231.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
 []\TU/TimesNewRoman(0)/m/n/14.4 В ходе измерения были получены следующие спектр
 ы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--248
-[]\TU/TimesNewRoman(0)/m/n/14.4 Как можно видеть, при изменении температуры
+Underfull \hbox (badness 10000) in paragraph at lines 256--265
+\TU/TimesNewRoman(0)/m/n/14.4 в сболее коротковолновую
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 256--265
+\TU/TimesNewRoman(0)/m/n/14.4 снижение структуры может быть объсянено тем, что 
+длина волны становится
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 256--265
+\TU/TimesNewRoman(0)/m/n/14.4 нерезонансной для внутренней волноводной структур
+ы. С другой стороны, за
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 256--265
+\TU/TimesNewRoman(0)/m/n/14.4 счёт нетипичного поведения ширины запрещенной зон
+ы от температуры (для
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 249.
+(babel)             in language  on input line 268.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 249.
+(babel)             in language  on input line 268.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 249.
+(babel)             in language  on input line 268.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 249.
-[7]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 250.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 250.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 250.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 250.
- [8]) (./sections/myComputations.tex
+(babel)             in language  on input line 268.
+[12]) (./sections/myComputations.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+ [13]
+Глава 3.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+|[]\TU/TimesNewRoman(0)/bx/n/35.83 Рассчет минимальной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\TU/TimesNewRoman(0)/bx/n/35.83 энергии Оже-процесса|
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 7.
 
 Underfull \hbox (badness 6493) in paragraph at lines 13--16
 []\TU/TimesNewRoman(0)/m/n/14.4 Как известно, Оже-рекомбинация является трехчас
@@ -2675,7 +2857,7 @@ Underfull \hbox (badness 6493) in paragraph at lines 13--16
  []
 
 
-Overfull \hbox (35.14783pt too wide) detected at line 33
+Overfull \hbox (35.14783pt too wide) detected at line 36
 []\OML/cmm/m/it/14.4 !\OT1/cmr/m/n/14.4 ([]\OML/cmm/m/it/14.4 ;  [];  [] \OMS/c
 msy/m/n/14.4 ! []\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 / \OML/cmm/m/it/14.4 ^^
 N[]\OT1/cmr/m/n/14.4 ([] + [] + [] \OMS/cmsy/m/n/14.4 ^^@ []\OT1/cmr/m/n/14.4 )
@@ -2683,140 +2865,159 @@ N[]\OT1/cmr/m/n/14.4 ([] + [] + [] \OMS/cmsy/m/n/14.4 ^^@ []\OT1/cmr/m/n/14.4 )
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--42
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
 \TU/TimesNewRoman(0)/m/n/14.4 техники Келдыша [[]5[]], так
  []
 
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 45.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 45.
+[14
 
-Underfull \hbox (badness 7415) in paragraph at lines 42--44
+]
+Underfull \hbox (badness 7415) in paragraph at lines 45--47
 []\TU/TimesNewRoman(0)/m/n/14.4 подобные рассчеты весьма вычислительно сложны и
  не могут быть
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 52--61
+Underfull \hbox (badness 1264) in paragraph at lines 55--64
 []\TU/TimesNewRoman(0)/m/n/14.4 Рассмотрим некоторые общие свойства процессаб в
  котором участвуют
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 52--61
+Underfull \hbox (badness 1231) in paragraph at lines 55--64
 \TU/TimesNewRoman(0)/m/n/14.4 для $\OML/cmm/m/it/14.4 i$ \TU/TimesNewRoman(0)/m
 /n/14.4 частиц (двух начальных и конечной), которым соответствуют импульсы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--61
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 \TU/TimesNewRoman(0)/m/n/14.4 оставшейся после участия в акте Оже-рекомбинации 
 (что эквивалентно
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 61.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 61.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 61.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 61.
-[9]
-Underfull \hbox (badness 1881) in paragraph at lines 72--73
+
+Underfull \hbox (badness 1881) in paragraph at lines 77--78
 []\TU/TimesNewRoman(0)/m/n/14.4 Подставим закон сохранения импулься сразу и вос
 пользуемся методом
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 84--88
-[]\TU/TimesNewRoman(0)/m/n/14.4 В случае рассмотрения прямозонной ситуации и не
-больших импульсов
+Underfull \hbox (badness 2529) in paragraph at lines 93--96
+\TU/TimesNewRoman(0)/m/n/14.4 изотропной эффективной массы. В таком случае зада
+ча может быть решена
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 96.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 96.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 96.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 96.
+[15]
+Underfull \hbox (badness 1874) in paragraph at lines 104--108
+\TU/TimesNewRoman(0)/m/n/14.4 монотонно), он может давать качественно верный ре
+зультат, поскольку такие
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 100--103
-\TU/TimesNewRoman(0)/m/n/14.4 [[]9[]], поскольку они позволяют существенно умен
-ьшить численные артефакты,
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
+[]\TU/TimesNewRoman(0)/m/n/14.4 Также стоит отметить, что зачастую удобно испол
+ьзовать
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 100--103
-\TU/TimesNewRoman(0)/m/n/14.4 вычислейний, а также убрать ложные участки диспер
-сионного соотношения,
+Underfull \hbox (badness 1303) in paragraph at lines 119--122
+\TU/TimesNewRoman(0)/m/n/14.4 артефакты, связанные с переколебаниями сплайна. Э
+то позволяет значительно
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--110
+Underfull \hbox (badness 10000) in paragraph at lines 123--129
 []\TU/TimesNewRoman(0)/m/n/14.4 Следует отметит,
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 104--110
+Underfull \hbox (badness 1005) in paragraph at lines 123--129
 \TU/TimesNewRoman(0)/m/n/14.4 её оптимизации представляется далеко нетривиально
 й задачей. В ходе работы
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 104--110
+Underfull \hbox (badness 1320) in paragraph at lines 123--129
 \TU/TimesNewRoman(0)/m/n/14.4 является метод разбиения дисперсионного соотношен
 ия на участки, имеющие
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 110.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 110.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 110.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 110.
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
 []\TU/TimesNewRoman(0)/m/n/14.4 В результате такого
  []
 
-
-Overfull \hbox (17.07002pt too wide) in paragraph at lines 126--127
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 132.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 132.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 132.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 132.
+[16]
+Overfull \hbox (17.07002pt too wide) in paragraph at lines 145--146
  [] 
  []
 
 
-Overfull \hbox (17.07002pt too wide) in paragraph at lines 141--142
+Overfull \hbox (17.07002pt too wide) in paragraph at lines 160--161
  [] 
  []
 
 
-Overfull \hbox (17.07002pt too wide) in paragraph at lines 156--157
+Overfull \hbox (17.07002pt too wide) in paragraph at lines 175--176
  [] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 1436) in paragraph at lines 161--165
+Underfull \hbox (badness 1436) in paragraph at lines 180--185
 \TU/TimesNewRoman(0)/m/n/14.4 групповыми скоростями. Это может приводить к суще
 ственно более быстрой
  []
 
+
+Underfull \hbox (badness 7558) in paragraph at lines 180--185
+\TU/TimesNewRoman(0)/m/n/14.4 Причем в структурах с большим содержанием кадмия 
+в квантовых ямах
+ []
+
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 168.
-[11]) (./sections/exampleAndComparsion.tex
+(babel)             in language  on input line 190.
+[17]) (./sections/exampleAndComparsion.tex
 
-LaTeX Warning: Citation `TmaxEthEq' on page 12 undefined on input line 5.
+LaTeX Warning: Citation `TmaxEthEq' on page 18 undefined on input line 7.
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 2--7
+Underfull \hbox (badness 5147) in paragraph at lines 4--9
 \TU/TimesNewRoman(0)/m/n/14.4 в изотропном приближении неплохо кореллирует с те
 мпературой затухания
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 2--7
+Underfull \hbox (badness 1292) in paragraph at lines 4--9
 \OML/cmm/m/it/14.4 T[] \OMS/cmsy/m/n/14.4 ^^Y \OML/cmm/m/it/14.4 E[]\OT1/cmr/m/
 n/14.4 /2$ \TU/TimesNewRoman(0)/m/n/14.4 [\TU/TimesNewRoman(0)/bx/n/14.4 ?\TU/T
 imesNewRoman(0)/m/n/14.4 ]. Это может быть объяснено, если учесть крайне высоки
@@ -2824,130 +3025,104 @@ imesNewRoman(0)/m/n/14.4 ]. Это может быть объяснено, ес�
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 2--7
+Underfull \hbox (badness 2884) in paragraph at lines 4--9
 \TU/TimesNewRoman(0)/m/n/14.4 темпы термолизации носителей, что приводит к расп
 ределению, близкому к
  []
 
 
-LaTeX Warning: Citation `Utochkin' on page 12 undefined on input line 8.
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 8--16
-\TU/TimesNewRoman(0)/m/n/14.4 КЯ был выращен в волноводном слое толщиной в един
-ицы мкм. Выбранное
+Underfull \hbox (badness 2393) in paragraph at lines 12--15
+\TU/TimesNewRoman(0)/m/n/14.4 на рис. 1. В первом случае (рис. а) расчёт провед
+ён для экспериментально
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 8--16
-\TU/TimesNewRoman(0)/m/n/14.4 в качестве зеркал резонатора, т.к. плоскости скол
-ов образуют острый угол с
- []
-
-
-Underfull \hbox (badness 1552) in paragraph at lines 17--20
+Underfull \hbox (badness 1552) in paragraph at lines 12--15
 \TU/TimesNewRoman(0)/m/n/14.4 исследованной Cd0.1Hg0.9Te/Cd0.65Hg0.35Te КЯ толщ
-иной 8.7 нм, во втором
+иной 7.4 нм, во втором
+ []
+
+File: ./images/14um/r14mkm.pdf Graphic file (type pdf)
+<use ./images/14um/r14mkm.pdf>
+
+Underfull \hbox (badness 6775) in paragraph at lines 20--23
+[]\TU/TimesNewRoman(0)/m/n/14.4 Как правило достаточно рассмотреть CCHC процесс
+, где электроны
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 21--28
-[]\TU/TimesNewRoman(0)/m/n/14.4 Из рисунка 1a видно, что для первого случая в в
-алентных подзонах
+Underfull \hbox (badness 1248) in paragraph at lines 20--23
+\TU/TimesNewRoman(0)/m/n/14.4 иногда это не справедливо. Для примера можно расс
+мотреть вышеописанную
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 21--28
-\TU/TimesNewRoman(0)/m/n/14.4 зоны на 7 meV. В HgTe яме, окруженной Cd0.65Hg0.3
-5Te, эти экстремумы
- []
-
-
-Underfull \hbox (badness 4132) in paragraph at lines 21--28
-\TU/TimesNewRoman(0)/m/n/14.4 практически отсутствуют (рис. 1 б). Как будет пок
-азано ниже, вид закона
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 21--28
-\TU/TimesNewRoman(0)/m/n/14.4 дисперсии дырок будет важен при определении велич
-ины пороговой энергии
- []
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 21--28
-\TU/TimesNewRoman(0)/m/n/14.4 8.7 нм и барьерами Cd0.65Hg0.35Te при оптической 
-накачке было получено
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 21--28
-\TU/TimesNewRoman(0)/m/n/14.4 стимулированное излучение на длине волны 18 $\OML
-/cmm/m/it/14.4 ^^Vm$\TU/TimesNewRoman(0)/m/n/14.4 , которое наблюдалось в
- []
-
-
-Underfull \hbox (badness 2245) in paragraph at lines 21--28
-\TU/TimesNewRoman(0)/m/n/14.4 диапазоне температур от 20 до 40К. Исследуемая ст
-руктура была выращена
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 29--32
-\TU/TimesNewRoman(0)/m/n/14.4 кинетической энергией дырки. Если учесть, что кин
-етическая энергия дырок
- []
-
-
-Underfull \hbox (badness 2065) in paragraph at lines 29--32
-\TU/TimesNewRoman(0)/m/n/14.4 в условиях инверсии населенности определяется не 
-только температурой, но
- []
-
-
-Underfull \hbox (badness 3333) in paragraph at lines 29--32
-\TU/TimesNewRoman(0)/m/n/14.4 и положением квазиуровня Ферми в валентной зоне, 
-то согласие теории и
+Underfull \hbox (badness 10000) in paragraph at lines 37--41
+[]\TU/TimesNewRoman(0)/m/n/14.4 Также рассмотрим
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 38.
-[12]
-Underfull \hbox (badness 4441) in paragraph at lines 39--46
+(babel)             in language  on input line 41.
+[18]
+File: ./images/dummy_18mkm.png Graphic file (type bmp)
+<./images/dummy_18mkm.png>
+
+Underfull \hbox (badness 2042) in paragraph at lines 59--66
+\TU/TimesNewRoman(0)/m/n/14.4 дырок, соответствующие порогу оже-рекомбинации. И
+з сравнения видно, что
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 59--66
 \TU/TimesNewRoman(0)/m/n/14.4 меньше, чем в Cd0.1Hg0.9Te квантовой яме. Это свя
 зано с наличием в в
  []
 
-
-Underfull \hbox (badness 3118) in paragraph at lines 47--51
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 66.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 66.
+[19])
+Underfull \hbox (badness 3118) in paragraph at lines 67--101
 []\TU/TimesNewRoman(0)/m/n/14.4 Таким образом, было продемонстрировано, что при
  заданной энергии
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
+Underfull \hbox (badness 10000) in paragraph at lines 67--101
 \TU/TimesNewRoman(0)/m/n/14.4 межзонного
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 52.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 52.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 52.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 52.
-[13]) (./sections/samplesDesign.tex
+(./sections/samplesDesign.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+ [20]
+Глава 4.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+|[]\TU/TimesNewRoman(0)/bx/n/35.83 Дизайн гетероструктур|
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--14
 []\TU/TimesNewRoman(0)/m/n/14.4 Во многом дизайн
@@ -2989,7 +3164,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--31
 гетероструктур
  []
 
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 31.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 31.
+[21
 
+]
 Underfull \hbox (badness 5302) in paragraph at lines 32--39
 []\TU/TimesNewRoman(0)/m/n/14.4 Однако в данном случае нас больше всего интерес
 ует связь между
@@ -3013,15 +3198,7 @@ Underfull \hbox (badness 1881) in paragraph at lines 32--39
 рение лишь радиальной
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 39.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 39.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 39.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 39.
-[14]
+
 Underfull \hbox (badness 3590) in paragraph at lines 43--46
 []\TU/TimesNewRoman(0)/m/n/14.4 Также в качестве осложняющего обстоятельства не
 льзя не упомянуть
@@ -3034,30 +3211,31 @@ Underfull \hbox (badness 2302) in paragraph at lines 43--46
  []
 
 
-Underfull \hbox (badness 5316) in paragraph at lines 47--52
-\TU/TimesNewRoman(0)/m/n/14.4 что позволит искусственно повысить одного из типо
-в носителей заряда и
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+[]\TU/TimesNewRoman(0)/m/n/14.4 Возможно, перспективным будет являться создание
+ структур
  []
 
-
-Underfull \hbox (badness 3907) in paragraph at lines 47--52
-\TU/TimesNewRoman(0)/m/n/14.4 превалировать тот или иной механизм Оже-рекомбина
-ции. Это может быть
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 52.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 52.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 52.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 52.
-[15]) (./sections/conclusion.tex
+) (./sections/conclusion.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+ [22]
+Глава 5.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+|[]\TU/TimesNewRoman(0)/bx/n/35.83 Заключение|
+ []
+
 ) (./main.bbl
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
@@ -3067,25 +3245,9 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
- [16]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
- [17]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1.
- [18]
+ [23
+
+]
 Underfull \hbox (badness 1286) in paragraph at lines 28--35
 []\TU/TimesNewRoman(0)/m/n/14.4 Terahertz injection lasers based on a pbsnse so
 lid solution with an emission
@@ -3127,25 +3289,25 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 100.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 100.
-[19
+[24
 
 ])
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 109.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 109.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 109.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 100.
- [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+(babel)             in language  on input line 109.
+ [25]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 72192C3692B14677AC7EBF7B725F3DFE.
+(rerunfilecheck)             Checksum: B30BC093F06C9C8BE63FD355753545C1.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -3153,18 +3315,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 41854 strings out of 492970
- 957964 string characters out of 6133939
- 1296229 words of memory out of 5000000
- 45304 multiletter control sequences out of 15000+600000
- 534189 words of font info for 54 fonts, out of 8000000 for 9000
+ 42932 strings out of 492970
+ 977212 string characters out of 6133939
+ 1309029 words of memory out of 5000000
+ 46348 multiletter control sequences out of 15000+600000
+ 534173 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,12n,96p,10401b,778s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,96p,10401b,814s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (20 pages).
+Output written on main.pdf (25 pages).
