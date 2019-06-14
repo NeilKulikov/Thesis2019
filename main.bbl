@@ -53,35 +53,46 @@ Terahertz injection lasers based on a pbsnse solid solution with an emission
 \newblock Vol.~16, no.~26. \BibDash
 \newblock P.~1193.
 
-\bibitem{AugerDiagrams}
+\bibitem{AbakumovYassievich1997}
 \selectlanguageifdefined{english}
-\BibEmph{Steiauf~D., Kioupakis~E., Van~de Walle~C.~G.} Auger recombination in
-  gaas from first principles~// \BibEmph{Acs Photonics}. \BibDash
-\newblock 2014. \BibDash
-\newblock Vol.~1, no.~8. \BibDash
-\newblock P.~643--646.
+\BibEmph{Абакумов~�., Перель~�., Яссиевич~�.}
+  Безызлучательная рекомбинация в
+  полупроводниках~// \BibEmph{Изд-во ПИЯФ, СПб}.
+  \BibDash
+\newblock 1997.
 
-\bibitem{SucApprAnd}
+\bibitem{Utochkin:PTS:2019}
 \selectlanguageifdefined{english}
-\BibEmph{Andreev~A., O’Reilly~E.~P.} Theoretical study of auger recombination
-  in a gainnas 1.3 $\mu$ m quantum well laser structure~// \BibEmph{Applied
-  physics letters}. \BibDash
-\newblock 2004. \BibDash
-\newblock Vol.~84, no.~11. \BibDash
-\newblock P.~1826--1828.
+Исследование пороговой энергии
+  оже-рекомбинации в волноводных
+  структурах с квантовыми ямами hgte/cd0.7hg0.3te в
+  области 14 мкм~/ В.В.~Уточкин, В.Я.~Алёшкин,
+  А.А.~Дубинов et~al. \BibDash
+\newblock 2019.
 
-\bibitem{SucApprAgr}
+\bibitem{Novik:2005}
 \selectlanguageifdefined{english}
-\BibEmph{Dutta~N.~K.} Long wavelength semiconductor lasers~// Technical
-  Digest., International Electron Devices Meeting~/ IEEE. \BibDash
-\newblock 1988. \BibDash
-\newblock P.~304--306.
+Band structure of semimagnetic hg$_{1-y}$mn$_y$te quantum wells~/ E.~G.~Novik,
+  A.~Pfeuffer-Jeschke, T.~Jungwirth et~al.~//
+  \href{http://dx.doi.org/10.1103/PhysRevB.72.035321}{\BibEmph{Phys. Rev. B}}.
+  \BibDash
+\newblock 2005. \BibDash Jul. \BibDash
+\newblock Vol.~72. \BibDash
+\newblock P.~035321. \BibDash
+\newblock Access mode:
+  \BibUrl{http://link.aps.org/doi/10.1103/PhysRevB.72.035321}.
 
-\bibitem{HgCdTeCalcZholudev}
+\bibitem{Zholudev:PRB:2012}
 \selectlanguageifdefined{english}
-\BibEmph{М.С.~�.} Терагерцовая спектроскопия
-  квантовых ям $Hg_{1−x} Cd_x Te$/$Cd_y Hg_{1−y} Te$. \BibDash
-\newblock IPM RAS, 2013.
+Magnetospectroscopy of two-dimensional hgte-based topological insulators around
+  the critical thickness~/ M.~Zholudev, F.~Teppe, M.~Orlita et~al.~//
+  \href{http://dx.doi.org/10.1103/PhysRevB.86.205420}{\BibEmph{Phys. Rev. B}}.
+  \BibDash
+\newblock 2012. \BibDash Nov. \BibDash
+\newblock Vol.~86. \BibDash
+\newblock P.~205420. \BibDash
+\newblock Access mode:
+  \BibUrl{http://link.aps.org/doi/10.1103/PhysRevB.86.205420}.
 
 \bibitem{AkimaSplines}
 \selectlanguageifdefined{english}
@@ -90,6 +101,11 @@ Terahertz injection lasers based on a pbsnse solid solution with an emission
 \newblock 1970. \BibDash
 \newblock Vol.~17, no.~4. \BibDash
 \newblock P.~589--602.
+
+\bibitem{Dierckx}
+\selectlanguageifdefined{english}
+\BibEmph{Dierckx~P.} Curve and surface fitting with splines. \BibDash
+\newblock Oxford University Press, 1995.
 
 \bibitem{AuglagOptim}
 \selectlanguageifdefined{english}
@@ -103,5 +119,27 @@ Terahertz injection lasers based on a pbsnse solid solution with an emission
 \BibEmph{Johnson~S.~G.} The nlopt nonlinear-optimization package. \BibDash
 \newblock 2014. \BibDash
 \newblock Access mode: \BibUrl{http://github.com/stevengj/nlopt}.
+
+\bibitem{Rumyantsev:PTS:2018}
+\selectlanguageifdefined{english}
+Влияние особенностей зонного спектра на
+  характеристики стимулированного
+  излучения в узкозонных гетероструктурах
+  с квантовыми ямами на основе hgcdte~/
+  В.В.~Румянцев, Н.С.~Куликов, А.М.~Кадыков
+  et~al.~// \BibEmph{Физика и техника
+  полупроводников}. \BibDash
+\newblock 2018. \BibDash
+\newblock Vol.~52. \BibDash
+\newblock P.~1263.
+
+\bibitem{Rumyantsev:IOP:2018}
+\selectlanguageifdefined{english}
+Hgcdte based quantum well heterostructures for long-wavelength lasers operating
+  in 5-15 thz range~/ VV~Rumyantsev, NS~Kulikov, AM~Kadykov et~al.~// Journal
+  of Physics: Conference Series~/ IOP Publishing. \BibDash
+\newblock Vol.~1092. \BibDash
+\newblock 2018. \BibDash
+\newblock P.~012126.
 
 \end{thebibliography}

@@ -1,0 +1,171 @@
+\documentclass[../main.tex]{subfiles}
+
+\begin{document}
+    \chapter{Виды рекомбинации}
+    \section{Общие сведения }
+    Как известно в полупроводниках существует несколько видов рекомбинации:
+    излучательная, рекомбинация Шокли-Рида-Холла и оже-рекомбинация. 
+    При этом последние два процесса происходят без излучения ЭМ волн и приводят
+    к паразитному уменьшению инверсии населённостей, пользуясь терминами 
+    лазерной техники. Излучательный же процесс является целевым при таком подходе.
+    \vspace{0.75cm}
+    \begin{figure}[h]
+        \begin{minipage}[h]{0.31\linewidth}
+            \begin{center}
+            \begin{tikzpicture}
+                \begin{scope}[very thick,decoration={
+                  markings,
+                  mark=at position 0.5 with {\arrow{>}}}
+                  ]
+                \draw[domain=-1.3:1.3,smooth,variable=\x] plot ({\x},{0.5 * \x * \x + 0.75});
+                \draw[domain=-2:2,smooth,variable=\x] plot ({\x},{-0.25 * \x * \x - 0.75});
+                \draw[color=black, fill=blue] (0., 0.75) circle (.1);
+                \draw[postaction={decorate}, blue, thick] (0., 0.75) -- (0., -0.75); 
+                \draw[color=black, fill=red] (0., -0.75) circle (.1);
+                \draw[->, snake it] (0.1, 0.) -- (1.1, 0.);
+                \end{scope}
+              \end{tikzpicture}
+              \vspace{0.75cm}
+              \textbf{Излучательная}
+            \end{center}
+        \end{minipage}
+        \hfill
+        \begin{minipage}[h]{0.31\linewidth}
+            \begin{center}
+                \begin{tikzpicture}
+                    \begin{scope}[very thick,decoration={
+                      markings,
+                      mark=at position 0.5 with {\arrow{>}}}
+                      ]
+                    \draw[domain=-1.3:1.3,smooth,variable=\x] plot ({\x},{0.5 * \x * \x + 0.75});
+                    \draw[domain=-2:2,smooth,variable=\x] plot ({\x},{-0.25 * \x * \x - 0.75});
+                    \draw (-0.5, 0.) -- (0.5, 0.);
+                    \draw[color=black, fill=blue] (0., 0.75) circle (.1);
+                    \draw[postaction={decorate}, blue, thick] (0., 0.75) -- (0., 0.); 
+                    \draw[color=black, fill=red] (0., -0.75) circle (.1);
+                    \draw[postaction={decorate}, red, thick] (0., -0.75) -- (0., 0.); 
+                    \end{scope}
+                  \end{tikzpicture}
+                  \vspace{0.75cm}
+                  \textbf{Рекомбинация ШРХ}
+                \end{center}
+            \end{minipage}
+            \hfill
+            \begin{minipage}[h]{0.31\linewidth}
+                \begin{center}
+                    \begin{tikzpicture}
+                        \begin{scope}[very thick,decoration={
+                          markings,
+                          mark=at position 0.5 with {\arrow{>}}}
+                          ]
+                        \draw[domain=-2:2,smooth,variable=\x] plot ({\x},{0.5 * \x * \x + 0.25});
+                        \draw[domain=-2:2,smooth,variable=\x] plot ({\x},{-0.25 * \x * \x - 0.25});
+                        \draw[color=black, fill=blue] (0.289, 0.391) circle (.1);
+                        \draw[color=black, fill=blue] (0.289, 0.191) circle (.1);
+                        \draw[postaction={decorate}, red, thick] (-0.577, -0.333) -- (0.289, 0.291);
+                        \draw[postaction={decorate}, blue, thick] (0.289, 0.291) -- (1.15, 0.918); 
+                        \draw[color=black, fill=red] (-0.577, -0.333) circle (.1);
+                        \draw[color=black, fill=white] (1.15, 0.918) circle (.1);
+                        \end{scope}
+                      \end{tikzpicture}
+                      \vspace{0.75cm}
+                      \textbf{Оже-рекомбинация}
+                    \end{center}
+                \end{minipage}
+    \end{figure}
+
+    Излучательная рекомбинация в целом делится на вынужденную и спонтанную, имеющие
+    отличные коэффициенты Эйнштейна. Однако в силу требования наличия равновесия 
+    оказывается, что эти коэффициенты 
+    ($\tau_{sp} = 1 / A_{21},~\tau_{st} = 1/B_{21} \rho(\nu)$) связаны:
+    \begin{equation*}
+        \frac{A_{21}}{B_{21}} = \frac{8\pi h \nu^3}{c^3};
+    \end{equation*}
+
+    А сам коэффициент Эйнштейна для спонтанного излучения 
+    ($E_g$ - ширина запрещённой зоны; $m_0,~m_h,~m_c$ - масса свободного электрона,
+    эффективная масса электрона и дырки; $\Delta$ - величина спин-орбитального 
+    расщепления; $P^2$ - коэффициент Кейна): 
+
+    \begin{eqnarray*}
+        A_{21} \propto \frac{(\varepsilon_g + \varepsilon_n + \varepsilon_p) P^2}
+            {\sqrt{(m_c + m_h)T}} n_n n_p \sim n_n n_p \sqrt{\frac{\varepsilon_g}{T}} ;\\
+        P^2 \propto \frac{m_c + m_0}{m_c m_0} \frac{\varepsilon_g(\varepsilon_g + \Delta)}
+            {\varepsilon_g + 2 \Delta / 3} \propto \frac{m_0}{m_0 m_c} \frac{\varepsilon_g \Delta}{\Delta} \sim \text{const};
+    \end{eqnarray*} 
+
+    Откуда следует вывод о том, что вероятность излучательной рекомбинации растёт
+    с ростом ширины запрещённой зоны. В нашем же случаеособый интерес представляют
+    образцы с малым $E_g$, а потому излучательная рекомбинация зачастую оказывается
+    подавленной.
+
+    Однако не менее важным оказывается влияние безызлучательных процессов - они снижают
+    инверсию населённостей, и тем самым конкурируют с излучательными процессами. При больших 
+    длинах волн оказывается, что в силу низких темпов излучательной рекомбинации именно они
+    определяют время жизни носителей и тем самым величину инверсии населённостей.
+
+    Исторически первым открытвм процессом безызлучательной рекомбинации был процесс 
+    Шокли-Рида-Холла. Он протекает с участием примеси, а потому может не учитываться 
+    в случае чистых полупроводников.
+
+    В то же время существует ещё один процесс, который оказывается связан с видом дисперсионных
+    соотношений для электронов и дырок. Оказывается возможным процесс в который вступает
+    3-и частицы: 2-е одного знака, 1-а - иного. В ходе такого процесса две частицы разных знаков
+    взаимоуничтожаются, отдавая свою энерги и импульс третьей. Таким образом происходит не только
+    уничтожение носителей заряда, но и существенный разогрев оставшихся. 
+
+    \section{Порог оже-рекомбинации}
+
+        При этом этот процесс оказывается пороговым, иначе говоря существует минимальная "кинетическая"
+    энергия трёх частиц, при которой становятся возможными такие переходы $\varepsilon_{th}$. Наличие этого 
+    порога объясняется требованием выполнения законов сохранения импульса и энергии. 
+    
+    \begin{figure}[h!!!]
+        \begin{minipage}[h]{0.66\linewidth}
+        В самом деле,
+        если мы возьмём все три частицы в гамма точке, то есть нулевой
+        начальной "кинетической" энергией мы не сможем добиться выполнения закона сохранения энергии - 
+        конечной частице просто негде будет находиться после прохождения такого процесса.
+        А, если процесс с нулевой энергией невозможен, значит существует порог.
+        \end{minipage}
+        \hfill
+        \begin{minipage}[h]{0.33\linewidth}
+            \begin{center}
+                \begin{tikzpicture}
+                    \begin{scope}[very thick,decoration={
+                        markings,
+                        mark=at position 0.5 with {\arrow{>}}}
+                        ]
+                      \draw[domain=-2:2,smooth,variable=\x] plot ({\x},{0.5 * \x * \x + 0.25});
+                      \draw[domain=-2:2,smooth,variable=\x] plot ({\x},{-0.25 * \x * \x - 0.25});
+                      \draw[color=black, fill=blue] (0.1, 0.25) circle (.1);
+                      \draw[color=black, fill=blue] (-0.1, 0.25) circle (.1);
+                      \draw[postaction={decorate}, red, thick] (0.0, -0.25) -- (0.0, 0.25);
+                      \draw[postaction={decorate}, blue, thick] (0.0, 0.25) -- (0.0, 0.75); 
+                      \draw[color=black, fill=red] (0.0, -0.25) circle (.1);
+                      \draw[color=black, fill=white] (0.0, 0.75) circle (.1);
+                      \end{scope}
+                    \end{tikzpicture}
+            \end{center}
+        \end{minipage}
+    \end{figure}
+
+    Его можно проиллюстрировать на примере параболических изотропных дисперсионных 
+    соотношений для электронов и дырок \cite{AbakumovYassievich1997}. Оказывается,
+    что в таком случае пороговая энергия и импульсы начальных частиц (два электрона
+    в таком случаек должны находиться в одном состоянии) равны:
+
+        \begin{equation}
+            \begin{array}{l}
+                E_{th} = E_g \frac{m_c}{m_h ( 1 + m_c / m_h)};\\
+                p_{h} = p_{c} \frac{m_h}{m_c} = \sqrt{\frac{2m_c E_g}{(1+ 2m_c/m_h)(1+ m_c / m_h)}};
+            \end{array}
+        \end{equation}
+
+    Как можно видеть, сама пороговая энергия пропорциональна ширине запрещённой зоны,
+    откуда следует, что длинноволновые  лазеры будут испытывать большее влияние этого 
+    типа рекомбинации.
+
+    Важно отметить, что не меньшую роль играет соотношение эффективных
+    масс. Очевидно, что чем больше отношение $\mu = m_c / m_h$, тем больше будет порог.
+\end{document}

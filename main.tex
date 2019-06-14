@@ -69,7 +69,7 @@
 \renewcommand\bibname{Фигня}
 
 %Запрет на переносы строк
-\pretolerance10000
+%\pretolerance10000
 
 \newcommand{\bea}{\begin{equation} \begin{flushleft} \left\{ \begin{aligned}}
 \newcommand{\eea}{\end{aligned} \right. \end{flushleft} \end{equation}}
@@ -80,6 +80,12 @@
 \newcommand{\hsp}{\hspace{20pt}} % длина линии в 20pt
 % titleformat определяет стиль
 \titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+\usetikzlibrary{decorations.markings}
+
+\usetikzlibrary{decorations.pathmorphing}
+
+\tikzset{snake it/.style={decorate, decoration=snake}}
 
 \begin{document}
     %Титульный лист
@@ -93,13 +99,17 @@
     \subfile{sections/intro.tex}
     %Содержимое
 
+    \subfile{sections/reIntro.tex}
+
     \subfile{sections/measTechnique.tex}
 
-    \subfile{sections/myComputations.tex}
+    %\subfile{sections/myComputations.tex}
 
-    \subfile{sections/exampleAndComparsion.tex}
+    %\subfile{sections/exampleAndComparsion.tex}
 
-    \subfile{sections/samplesDesign.tex}
+    %\subfile{sections/samplesDesign.tex}
+
+    \subfile{sections/augerThresholdCalculation.tex}
 
     \subfile{sections/conclusion.tex}
 
