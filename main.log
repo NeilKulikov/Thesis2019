@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.9.3)  14 JUN 2019 18:23
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.9.3)  15 JUN 2019 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2469,28 +2469,28 @@ Overfull \hbox (2.72859pt too wide) in paragraph at lines 77--81
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 103.
 [5
 
 ]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 119.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 119.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 157.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 157.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 157.
+(babel)             in language  on input line 165.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 157.
+(babel)             in language  on input line 165.
  [6]) (./sections/measTechnique.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 4.
@@ -2583,6 +2583,12 @@ Overfull \hbox (20.31523pt too wide) in paragraph at lines 264--267
 висимости порога Оже-процесса
  []
 
+
+Overfull \hbox (0.95514pt too wide) in paragraph at lines 278--282
+[]\TU/TimesNewRoman(0)/m/n/14.4 Второй образец представляет собой 10 КЯ состава
+ Cd$[][]$Hg$[][]$Te/Cd$[][]$Hg$[][]$Te
+ []
+
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 282.
 Package babel Info: Redefining russian shorthand "~
@@ -2592,30 +2598,25 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 282.
 [12]
-File: ./images/spectre_14um.png Graphic file (type bmp)
-<./images/spectre_14um.png>
-File: ./images/spectre_18um.png Graphic file (type bmp)
-<./images/spectre_18um.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
-Overfull \hbox (1.1046pt too wide) in paragraph at lines 322--105
+File: ./images/new_f_sp_14um.pdf Graphic file (type pdf)
+<use ./images/new_f_sp_14um.pdf>
+File: ./images/new_f_sp_18um.pdf Graphic file (type pdf)
+<use ./images/new_f_sp_18um.pdf>
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 323.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 323.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 323.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 323.
+ [13])
+Overfull \hbox (1.1046pt too wide) in paragraph at lines 324--105
 \TU/TimesNewRoman(0)/m/n/14.4 энергии частиц, которые смогут характеризовать эт
 о снижение интенсивности и тем-
  []
 
 (./sections/augerThresholdCalculation.tex
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 4.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 4.
- [13]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining russian shorthand "~
@@ -2804,9 +2805,15 @@ LS Bovkun et al. //
 Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
 Missing character: There is no � in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;!
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+
+Underfull \hbox (badness 5302) in paragraph at lines 58--64
+[]\TU/TimesNewRoman(0)/m/n/14.4 Asryan L. V. Spontaneous radiative recombinatio
+n and nonradiative auger
+ []
+
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
 Missing character: There is no � in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;!
 Missing character: There is no � in font Times New Roman/OT:script=latn;languag
@@ -2814,7 +2821,7 @@ e=DFLT;mapping=tex-text;!
 Missing character: There is no � in font Times New Roman/OT:script=latn;languag
 e=DFLT;mapping=tex-text;!
 
-Underfull \hbox (badness 2680) in paragraph at lines 75--84
+Underfull \hbox (badness 2680) in paragraph at lines 84--93
 []\TU/TimesNewRoman(0)/m/n/14.4 Band structure of semimagnetic hg$[]$mn$[]$te q
 uantum wells / E. G. Novik,
  []
@@ -2854,9 +2861,9 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
  ) 
 Here is how much of TeX's memory you used:
  42650 strings out of 492970
- 972826 string characters out of 6133939
+ 972879 string characters out of 6133939
  1286334 words of memory out of 5000000
- 46059 multiletter control sequences out of 15000+600000
+ 46060 multiletter control sequences out of 15000+600000
  534173 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  62i,20n,96p,10401b,1212s stack positions out of 5000i,500n,10000p,200000b,80000s
