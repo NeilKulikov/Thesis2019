@@ -14,6 +14,18 @@
 \cyrdash\hskip.2em plus 0.1em\ignorespaces}
 \renewcommand{\newblock}{\ignorespaces}
 
+\bibitem{Intro1}
+\selectlanguageifdefined{english}
+\BibEmph{Засавицкий~�.} Инфракрасная
+  люминесценция и характеристики
+  энергетического спектра полупроводников
+  типа А4В6~// \BibEmph{Труды ФИАН. Оптические и
+  электрические свойства полупроводников}.
+  \BibDash
+\newblock 1993. \BibDash
+\newblock Vol. 224. \BibDash
+\newblock P.~3--118.
+
 \bibitem{Intro7}
 \selectlanguageifdefined{english}
 \BibEmph{Anwar~M.~F., Crowe~T.~W., Manzur~T.} Terahertz physics, devices, and
@@ -33,18 +45,6 @@ Terahertz injection lasers based on a pbsnse solid solution with an emission
 \newblock Vol.~52, no.~12. \BibDash
 \newblock P.~1590--1594.
 
-\bibitem{Intro1}
-\selectlanguageifdefined{english}
-\BibEmph{Засавицкий~�.} Инфракрасная
-  люминесценция и характеристики
-  энергетического спектра полупроводников
-  типа А4В6~// \BibEmph{Труды ФИАН. Оптические и
-  электрические свойства полупроводников}.
-  \BibDash
-\newblock 1993. \BibDash
-\newblock Vol. 224. \BibDash
-\newblock P.~3--118.
-
 \bibitem{Intro9}
 \selectlanguageifdefined{english}
 \BibEmph{Dimmock~J., Melngailis~I., Strauss~A.} Band structure and laser action
@@ -52,6 +52,16 @@ Terahertz injection lasers based on a pbsnse solid solution with an emission
 \newblock 1966. \BibDash
 \newblock Vol.~16, no.~26. \BibDash
 \newblock P.~1193.
+
+\bibitem{Varavin:2003}
+\selectlanguageifdefined{english}
+Hgcdte epilayers on gaas: growth and devices~/ Vasily~S~Varavin, VV~Vasiliev,
+  Sergey~A~Dvoretsky et~al.~// Solid State Crystals 2002: Crystalline Materials
+  for Optoelectronics~/ International Society for Optics and Photonics.
+  \BibDash
+\newblock Vol.~5136. \BibDash
+\newblock 2003. \BibDash
+\newblock P.~381--396.
 
 \bibitem{Asryan:IOP:2005}
 \selectlanguageifdefined{english}
@@ -76,7 +86,8 @@ Terahertz injection lasers based on a pbsnse solid solution with an emission
   оже-рекомбинации в волноводных
   структурах с квантовыми ямами hgte/cd0.7hg0.3te в
   области 14 мкм~/ В.В.~Уточкин, В.Я.~Алёшкин,
-  А.А.~Дубинов et~al. \BibDash
+  Н.С.~Куликов et~al.~// \BibEmph{Физика и техника
+  полупроводников}. \BibDash
 \newblock 2019.
 
 \bibitem{Novik:2005}

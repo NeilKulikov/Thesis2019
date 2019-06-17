@@ -6,47 +6,46 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliography.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Warning--empty booktitle in Utochkin:PTS:2019
 Warning--can't use both volume and number fields in Rumyantsev:IOP:2018
-You've used 15 entries,
+You've used 16 entries,
             4660 wiz_defined-function locations,
-            1455 strings with 16459 characters,
-and the built_in function-call counts, 6123 in all, are:
-= -- 728
-> -- 178
-< -- 26
-+ -- 56
-- -- 41
-* -- 333
-:= -- 609
-add.period$ -- 63
-call.type$ -- 15
-change.case$ -- 13
+            1464 strings with 16839 characters,
+and the built_in function-call counts, 6651 in all, are:
+= -- 799
+> -- 195
+< -- 27
++ -- 61
+- -- 45
+* -- 363
+:= -- 665
+add.period$ -- 67
+call.type$ -- 16
+change.case$ -- 14
 chr.to.int$ -- 0
 cite$ -- 17
-duplicate$ -- 344
-empty$ -- 660
-format.name$ -- 41
-if$ -- 1654
+duplicate$ -- 367
+empty$ -- 710
+format.name$ -- 45
+if$ -- 1797
 int.to.chr$ -- 0
-int.to.str$ -- 15
+int.to.str$ -- 16
 missing$ -- 0
-newline$ -- 114
-num.names$ -- 43
-pop$ -- 88
+newline$ -- 121
+num.names$ -- 46
+pop$ -- 91
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 326
+skip$ -- 355
 stack$ -- 0
-substring$ -- 195
-swap$ -- 260
+substring$ -- 227
+swap$ -- 281
 text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 33
-width$ -- 17
-write$ -- 239
-(There were 2 warnings)
+warning$ -- 1
+while$ -- 37
+width$ -- 18
+write$ -- 257
+(There was 1 warning)
