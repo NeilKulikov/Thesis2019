@@ -53,6 +53,24 @@ Terahertz injection lasers based on a pbsnse solid solution with an emission
 \newblock Vol.~16, no.~26. \BibDash
 \newblock P.~1193.
 
+\bibitem{Rumyantsev:IOP:2018}
+\selectlanguageifdefined{english}
+Hgcdte based quantum well heterostructures for long-wavelength lasers operating
+  in 5-15 thz range~/ VV~Rumyantsev, NS~Kulikov, AM~Kadykov et~al.~// Journal
+  of Physics: Conference Series~/ IOP Publishing. \BibDash
+\newblock Vol.~1092. \BibDash
+\newblock 2018. \BibDash
+\newblock P.~012126.
+
+\bibitem{Rumyantsev:2019}
+\selectlanguageifdefined{english}
+Carrier recombination, long-wavelength photoluminescence, and stimulated
+  emission in hgcdte quantum well heterostructures~/ Vladimir~Rumyantsev,
+  Mikhail~Fadeev, Vladimir~Aleshkin et~al.~// \BibEmph{physica status solidi
+  (b)}. \BibDash
+\newblock 2019. \BibDash
+\newblock P.~1800546.
+
 \bibitem{Varavin:2003}
 \selectlanguageifdefined{english}
 Hgcdte epilayers on gaas: growth and devices~/ Vasily~S~Varavin, VV~Vasiliev,
@@ -79,6 +97,12 @@ Hgcdte epilayers on gaas: growth and devices~/ Vasily~S~Varavin, VV~Vasiliev,
   полупроводниках~// \BibEmph{Изд-во ПИЯФ, СПб}.
   \BibDash
 \newblock 1997.
+
+\bibitem{Vasko:2006}
+\selectlanguageifdefined{english}
+\BibEmph{Vasko~F.~T., Raichev~O.~E.} Quantum Kinetic Theory and Applications:
+  Electrons, Photons, Phonons. \BibDash
+\newblock Springer Science \& Business Media, 2006.
 
 \bibitem{Utochkin:PTS:2019}
 \selectlanguageifdefined{english}
@@ -153,13 +177,29 @@ Magnetospectroscopy of two-dimensional hgte-based topological insulators around
 \newblock Vol.~52. \BibDash
 \newblock P.~1263.
 
-\bibitem{Rumyantsev:IOP:2018}
+\bibitem{Alymov:2018}
 \selectlanguageifdefined{english}
-Hgcdte based quantum well heterostructures for long-wavelength lasers operating
-  in 5-15 thz range~/ VV~Rumyantsev, NS~Kulikov, AM~Kadykov et~al.~// Journal
-  of Physics: Conference Series~/ IOP Publishing. \BibDash
-\newblock Vol.~1092. \BibDash
-\newblock 2018. \BibDash
-\newblock P.~012126.
+Auger recombination in dirac materials: A tangle of many-body effects~/
+  Georgy~Alymov, Vladimir~Vyurkov, Victor~Ryzhii et~al.~//
+  \href{http://dx.doi.org/10.1103/PhysRevB.97.205411}{\BibEmph{Phys. Rev. B}}.
+  \BibDash
+\newblock 2018. \BibDash May. \BibDash
+\newblock Vol.~97. \BibDash
+\newblock P.~205411. \BibDash
+\newblock Access mode:
+  \BibUrl{https://link.aps.org/doi/10.1103/PhysRevB.97.205411}.
+
+\bibitem{Kozlov:2019}
+\selectlanguageifdefined{english}
+Особенности фотолюминесценции двойных
+  акцепторов в гетероструктурах hgte/Сdhgte с
+  квантовыми ямами в терагерцовом
+  диапазоне~/ Дмитрий~Владимирович~Козлов,
+  В~В~Румянцев, Н~С~Куликов et~al.~// \BibEmph{Письма
+  в Журнал экспериментальной и
+  теоретической физики}. \BibDash
+\newblock 2019. \BibDash
+\newblock Vol. 109, no.~10. \BibDash
+\newblock P.~679--684.
 
 \end{thebibliography}

@@ -7,45 +7,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliography.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--can't use both volume and number fields in Rumyantsev:IOP:2018
-You've used 16 entries,
+You've used 20 entries,
             4660 wiz_defined-function locations,
-            1464 strings with 16839 characters,
-and the built_in function-call counts, 6651 in all, are:
-= -- 799
-> -- 195
-< -- 27
-+ -- 61
-- -- 45
-* -- 363
-:= -- 665
-add.period$ -- 67
-call.type$ -- 16
-change.case$ -- 14
+            1493 strings with 18445 characters,
+and the built_in function-call counts, 8390 in all, are:
+= -- 1004
+> -- 255
+< -- 34
++ -- 79
+- -- 59
+* -- 456
+:= -- 839
+add.period$ -- 82
+call.type$ -- 20
+change.case$ -- 17
 chr.to.int$ -- 0
-cite$ -- 17
-duplicate$ -- 367
-empty$ -- 710
-format.name$ -- 45
-if$ -- 1797
+cite$ -- 21
+duplicate$ -- 467
+empty$ -- 888
+format.name$ -- 59
+if$ -- 2270
 int.to.chr$ -- 0
-int.to.str$ -- 16
+int.to.str$ -- 20
 missing$ -- 0
-newline$ -- 121
-num.names$ -- 46
-pop$ -- 91
+newline$ -- 147
+num.names$ -- 58
+pop$ -- 114
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 355
+skip$ -- 458
 stack$ -- 0
-substring$ -- 227
-swap$ -- 281
-text.length$ -- 12
+substring$ -- 285
+swap$ -- 357
+text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 37
-width$ -- 18
-write$ -- 257
+while$ -- 46
+width$ -- 22
+write$ -- 316
 (There was 1 warning)

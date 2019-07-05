@@ -1,17 +1,16 @@
 \babel@toc {russian}{}
 \contentsline {chapter}{\numberline {1}Введение}{2}{chapter.1}
-\contentsline {chapter}{\numberline {2}Виды рекомбинации}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Общие сведения }{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Порог оже-рекомбинации}{6}{section.2.2}
-\contentsline {chapter}{\numberline {3}Измерения и методики}{8}{chapter.3}
-\contentsline {section}{\numberline {3.1}Методика исследования фотолюминисценции}{8}{section.3.1}
-\contentsline {section}{\numberline {3.2}Методика исследования фотопроводимости}{10}{section.3.2}
-\contentsline {section}{\numberline {3.3}Рассматриваемые образцы}{11}{section.3.3}
-\contentsline {section}{\numberline {3.4}Экспериментальные данные}{13}{section.3.4}
-\contentsline {chapter}{\numberline {4}Расчёт пороговой энергии\\ оже-процессов}{16}{chapter.4}
-\contentsline {section}{\numberline {4.1}Метод расчёта}{16}{section.4.1}
-\contentsline {section}{\numberline {4.2}Расчёт порога в HgCdTe}{19}{section.4.2}
-\contentsline {section}{\numberline {4.3}Сравнение теории и эксперимента}{21}{section.4.3}
-\contentsline {section}{\numberline {4.4}Зависимость оже-порога в зависимости от состава барьера}{23}{section.4.4}
-\contentsline {section}{\numberline {4.5}Перспективные структуры}{25}{section.4.5}
-\contentsline {chapter}{\numberline {5}Заключение}{27}{chapter.5}
+\contentsline {chapter}{\numberline {2}Излучательная и безызлучательная рекомбинация}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Механизмы рекомбинации в полупроводниках}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Порог оже-рекомбинации}{7}{section.2.2}
+\contentsline {chapter}{\numberline {3}Измерения и методики}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Методика исследования фотолюминисценции}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Методика исследования фотопроводимости}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}Исследуемые образцы и экспериментальные данные}{13}{section.3.3}
+\contentsline {chapter}{\numberline {4}Расчёт пороговой энергии\\ оже-процессов}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Метод расчёта}{17}{section.4.1}
+\contentsline {section}{\numberline {4.2}Расчёт порога оже-рекомбинации в гетероструктурах с КЯ на основе HgCdTe}{20}{section.4.2}
+\contentsline {section}{\numberline {4.3}Сравнение теории и эксперимента}{22}{section.4.3}
+\contentsline {section}{\numberline {4.4}Зависимость оже-порога от состава барьера}{24}{section.4.4}
+\contentsline {section}{\numberline {4.5}Перспективные структуры}{26}{section.4.5}
+\contentsline {chapter}{\numberline {5}Заключение}{28}{chapter.5}
